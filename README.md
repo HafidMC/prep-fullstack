@@ -1,2 +1,2 @@
 # prep-fullstack
-Este es un repositorio del módulo 2
+Este es un  una prueba de clonar un repositorio
